@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>cpu.png</file>
+        <file>logo.png</file>
+        <file>font.jpg</file>
+    </qresource>
+</RCC>
